@@ -28,5 +28,3 @@
 --FROM sales_customers c
 --LEFT JOIN sales_orders o ON c.customer_id = o.customer_id
 --GROUP BY c.customer_id, c.first_name;
-
-Auigfdnu
